@@ -5,6 +5,7 @@ Bookorama is a simple web application that allows you to create and manage your 
 🚀 Quick Start
 
 To get started with Bookorama, you can simply clone the repository and open the index.html file in your browser.
+Or you can visit live link - https://beka-michitashvili.github.io/Bookorama/
 
 💡 Features
 
